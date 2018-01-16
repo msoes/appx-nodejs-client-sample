@@ -1,0 +1,18 @@
+# TrackNet account information
+# Must be sourcable by bash script, so
+# better no spaces in the key=value expressions
+
+# URI for info server
+INFOSURI=
+
+# URI for API REST server
+APISURI=
+
+# The account owner ID
+OWNERID=
+
+# Access token for this owner
+TOKEN=
+
+
+
